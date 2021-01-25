@@ -1,0 +1,127 @@
+DATE: 01/01/21                                            COMPANY NAME                                        ICR410 PAGE: 1
+USER: USER01                                    PRINT SUGGESTED COSTS/PRICES                                  TIME: 12:00 AM
+
+ITEM FIRST TO LAST
+VENDOR ALL
+ALL PRICING UM RECORDS
+
+                        -------------------CURRENT------------------  -----------------------SUGGESTED----------------------
+   UM TYPE              QUANTITY BS MULTIPLIER    AMOUNT COMMISSION%  QUANTITY BS MULTIPLIER    AMOUNT   CHANGE% COMMISSION%
+============================================================================================================================
+Item: ITEM01               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                   50.82                                        50.82     .000%
+   EA Manual Cost                                 34.830                                        36.223    3.999%
+   EA Standard Price             MC     2.2340     77.81                       MC     2.2340     80.92    3.997%            
+   EA Price Level 1                                                            SP     1.0000     80.92  999.999%            
+
+Item: ITEM02               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                  97.96                                         97.96     .000%
+   EA Manual Cost                                 46.660                                        48.526    3.999%
+   EA Standard Price             MC     2.0990     97.94                       MC     2.0990    101.86    4.002%            
+   EA Price Level 1              SP     1.0000     97.94                       SP     1.0000    101.86    4.002%            
+
+Item: ITEM03               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                  15.13                                         15.13     .000%
+   EA Manual Cost                                  7.980                                         8.299    3.997%
+   EA Standard Price             MC     1.8920     15.10                       MC     1.8920     15.70    3.974%            
+   EA Price Level 1              SP     1.0000     15.10                       SP     1.0000     15.70    3.974%            
+
+Item: ITEM04               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                   3.94                                          3.94     .000%
+   EA Manual Cost                                  1.650                                         1.716    4.000%
+   EA Standard Price             MC     3.2500      5.36                       MC     3.2500      5.58    4.104%            
+   EA Price Level 1              SP     1.0000      5.36                       SP     1.0000      5.58    4.104%            
+
+Item: ITEM05               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                  12.71                                         12.71     .000%
+   EA Manual Cost                                  6.340                                         6.916    9.085%
+   EA Standard Price             MC     1.9850     12.58                       MC     1.9850     13.73    9.141%            
+   EA Price Level 1              SP     1.0000     12.58                       SP     1.0000     13.73    9.141%            
+
+Item: ITEM06               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                   7.33                                          7.33     .000%
+   EA Manual Cost                                  3.030                                         3.328    9.835%
+   EA Standard Price             MC     2.4950      7.56                       MC     2.4950      8.30    9.788%            
+   EA Price Level 1              SP     1.0000      7.56                       SP     1.0000      8.30    9.788%            
+
+Item: ITEM07               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                  11.50                                         11.50     .000%
+   EA Manual Cost                                  5.500                                         5.720    4.000%
+   EA Standard Price             MC     2.0880     11.48                       MC     2.0880     11.94    4.007%            
+   EA Price Level 1              SP     1.0000     11.48                       SP     1.0000     11.94    4.007%            
+
+Item: ITEM08               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                  21.18                                         21.18     .000%
+   EA Manual Cost                                 10.450                                        11.440    9.474%
+   EA Standard Price             MC     2.2360     23.37                       MC     2.2360     25.58    9.457%            
+   EA Price Level 1              SP     1.0000     23.37                       SP     1.0000     25.58    9.457%            
+
+Item: ITEM09               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                  32.67                                         32.67     .000%
+   EA Manual Cost                                 16.000                                        16.640    4.000%
+
+
+<page break>
+
+DATE: 01/01/21                                            COMPANY NAME                                        ICR410 PAGE: 2
+USER: USER01                                    PRINT SUGGESTED COSTS/PRICES                                  TIME: 12:00 AM
+
+ALL PRICING UM RECORDS
+
+                        -------------------CURRENT------------------  -----------------------SUGGESTED----------------------
+   UM TYPE              QUANTITY BS MULTIPLIER    AMOUNT COMMISSION%  QUANTITY BS MULTIPLIER    AMOUNT   CHANGE% COMMISSION%
+============================================================================================================================
+   EA Standard Price             MC     2.2590     36.14                       MC     2.2590     37.59    4.012%            
+   EA Price Level 1              SP     1.0000     36.14                       SP     1.0000     37.59    4.012%            
+
+Item: ITEM10               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                  26.08                                         26.08     .000%
+   EA Manual Cost                                 10.450                                        11.440    9.474%
+   EA Standard Price             MC     2.9860     31.20                       MC     2.9860     34.16    9.487%            
+   EA Price Level 1              SP     1.0000     31.20                       SP     1.0000     34.16    9.487%            
+
+Item: ITEM11               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                   2.61                                          2.61     .000%
+   EA Manual Cost                                   .750                                          .780    4.000%
+   EA Standard Price             MC     6.7190      5.04                       MC     6.7190      5.24    3.968%            
+   EA Price Level 1              SP     1.0000      5.04                       SP     1.0000      5.24    3.968%            
+
+Item: ITEM12               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                    6.13                                         6.13     .000%
+   EA Manual Cost                                  3.620                                         3.910    8.011%
+   EA Standard Price             MC     1.6660      6.03                       MC     1.6660      6.51    7.960%            
+   EA Price Level 1              SP     1.0000      6.03                       SP     1.0000      6.51    7.960%            
+                  3                                  .00                                           .00    0.000%            
+                  4                                  .00                                           .00    0.000%            
+                  5                                  .00                                           .00    0.000%            
+                  6                                  .00                                           .00    0.000%            
+
+Item: ITEM13               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                   24.56                                        24.56     .000%
+   EA Manual Cost                                 12.380                                        13.618   10.000%
+   EA Standard Price             MC     1.4290     17.69                       MC     1.4290     19.46   10.006%            
+   EA Price Level 1              SP     1.0000     17.69                       SP     1.0000     19.46   10.006%            
+                  3                                  .00                                           .00    0.000%            
+                  4                                  .00                                           .00    0.000%            
+                  5                                  .00                                           .00    0.000%            
+                  6                                  .00                                           .00    0.000%            
+
+Item: ITEM14               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                   10.37                                        10.37     .000%
+   EA Manual Cost                                  5.040                                         5.995   18.948%
+   EA Standard Price             MC     1.7000      8.57                       MC     1.7000     10.19   18.903%            
+   EA Price Level 1              SP     1.0000      8.57                       SP     1.0000     10.19   18.903%            
+                  3                                  .00                                           .00    0.000%            
+                  4                                  .00                                           .00    0.000%            
+                  5                                  .00                                           .00    0.000%            
+                  6                                  .00                                           .00    0.000%            
+
+Item: ITEM15               SOME ITEM DESCRIPTION          Eff Date 01/31/21 Use Def Prices N
+   EA List Price                                   11.56                                        11.56     .000%
+   EA Manual Cost                                  5.628                                         6.078    7.996%
+   EA Standard Price             MC     1.6980      9.56                       MC     1.6980     10.32    7.950%            
+   EA Price Level 1              SP     1.0000      9.56                       SP     1.0000     10.32    7.950%            
+                  3                                  .00                                           .00    0.000%            
+                  4                                  .00                                           .00    0.000%            
+                  5                                  .00                                           .00    0.000%            
+                  6                                  .00                                           .00    0.000%           
